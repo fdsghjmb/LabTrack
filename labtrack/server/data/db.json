@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "id": "6487fb86-33c4-4550-8468-6066ac932de6",
+      "name": "Іван",
+      "email": "user1794168455776113558@uzhnu.edu.ua",
+      "passwordHash": "33f2e0a2bdfccae4f8fcafea2a235d8a:ee6656d0861e6bf17e1eb40473716b942ebfc35d38cbcb47181ef6e4be3405bdaecb94c6a6769dd52561afb88962df23e45fa5001eb8509fcc381da39015a78a"
+    },
+    {
+      "id": "d7907603-57d5-4a11-8d0e-fc6d0f645a80",
+      "name": "Іван",
+      "email": "user1794168458626240197@uzhnu.edu.ua",
+      "passwordHash": "5f2686faa858a183e39b3f28411e284b:5ccb23479256890aa7de503eea31c3bb5c1f21729e44c682c30198cc93e91f2a40b25021095f214faa137ca038450483ee6af2e6fb350f5373331ca077128dcc"
+    },
+    {
+      "id": "9ebef1f8-e848-4dfa-86b8-ec7701f0018b",
+      "name": "Іван",
+      "email": "user1794168461356577362@uzhnu.edu.ua",
+      "passwordHash": "7d31e837bfa526b8bdf8668ee979afcc:0cc6183ab141f621f591c02e8cb8174fdf8522cfb7f4a87682fad8ae71b492368d15c362c636fcbc16a17f79c28903dd4693a218e5416dd6916f5a073d2270b8"
+    },
+    {
+      "id": "378ede02-1d7d-4dab-97ca-9b6dbd0b12c3",
+      "name": "Іван",
+      "email": "user1794168463836254399@uzhnu.edu.ua",
+      "passwordHash": "301751676ad29426cf1b1f828b2552de:94df11317f9e4ecf04c92631d7e57c6520086e048d4d49347f97de253dcbf6480da1452a88695678c8ddaf1622f330b55f87682fe0197d175f61c8c7b123112b"
+    },
+    {
+      "id": "81d98d58-87b8-4278-a37e-4ff857c14813",
+      "name": "Іван",
+      "email": "user1794168467245303752@uzhnu.edu.ua",
+      "passwordHash": "66a9e02d4db361b9468838c9ab8ceb8c:374a4e8b584767d89e4b4392fb13c0d13d4108a9f59963fbbe2f7e72725d2c1463f3129ab11388a0e76b9f586611fc2a2535bb2ff16d28aff39f1178d9b1eaba"
+    },
+    {
+      "id": "0af17903-7d36-4f3b-aa7e-b16d66000f21",
+      "name": "Іван",
+      "email": "user1794168470164637757@uzhnu.edu.ua",
+      "passwordHash": "28de05c698211bcc8294cd9c44bc938a:0f686ad80d7c02ce140efe9b290362e0244b5dcf8b05eb67616a2409662f13194a7dbeb3838e9189b7ec5d9ff12f0b5f2701faa340f1dc4cc876b648aa0c5aa6"
+    },
+    {
+      "id": "453b0f88-de96-4974-9f16-efc7910cdb78",
+      "name": "Іван",
+      "email": "user1794168472821744872@uzhnu.edu.ua",
+      "passwordHash": "e28799b386935ebfc31ece10090978c4:bb50e8d3fdc40ae506f305a42baeffa480c29c6d110cef73f8d33b079e2ba74f52e02726a5878c5a507c8afcf13647a308b62cef2316c3a7489fe41801488770"
+    },
+    {
+      "id": "10364b11-9ed1-4bbc-916d-3998fd8aed0b",
+      "name": "Іван",
+      "email": "user1794168475487859839@uzhnu.edu.ua",
+      "passwordHash": "c8ecc9d485b0f6bd0fe9e733127a272d:f7c82ca1430380dbf6eecdf33f23eeba796535235d4d21826d3eea4a74cdd8c47b2bc67435790b7a53e7f3e29833d412f736ce9eaf2c8226381d594e98390dd6"
+    },
+    {
+      "id": "18038fc5-f714-4141-9692-81f64b293ab8",
+      "name": "Іван",
+      "email": "user1794168478733107155@uzhnu.edu.ua",
+      "passwordHash": "db42bc2aad08545e088a55bc08b23fbf:d841436fd2d47e1f29261216ede759c956c3307f34c3ab108c7c93c35d5601a0def67caa669d86811a2f9195224e5b05c7c0897d46730fa865fb21a5c4fc68ab"
+    }
+  ],
+  "labs": [
+    {
+      "id": "010a24d3-bc0e-46b7-8039-021fa37bf353",
+      "userId": "81d98d58-87b8-4278-a37e-4ff857c14813",
+      "note": "",
+      "subject": "Веб-технології",
+      "title": "Ідея та мокапи",
+      "number": 1,
+      "deadline": "2030-01-15",
+      "status": "todo"
+    },
+    {
+      "id": "d4c540e1-2dec-447d-8787-fc73ef6a38f8",
+      "userId": "0af17903-7d36-4f3b-aa7e-b16d66000f21",
+      "note": "",
+      "subject": "Алгоритми",
+      "title": "Сортування",
+      "number": 1,
+      "deadline": "2030-01-15",
+      "status": "todo"
+    },
+    {
+      "id": "81b04fd1-9dfa-4389-a730-a84b2be5f0a2",
+      "userId": "453b0f88-de96-4974-9f16-efc7910cdb78",
+      "note": "",
+      "subject": "Алгоритми",
+      "title": "Сортування",
+      "number": 1,
+      "deadline": "2030-01-15",
+      "status": "defended"
+    },
+    {
+      "id": "d484727e-ff0c-4dba-ac14-f77bf5a0ef9a",
+      "userId": "10364b11-9ed1-4bbc-916d-3998fd8aed0b",
+      "note": "",
+      "subject": "Алгоритми",
+      "title": "Швидке сортування",
+      "number": 1,
+      "deadline": "2030-01-15",
+      "status": "todo"
+    }
+  ]
+}
